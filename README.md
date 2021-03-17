@@ -1,6 +1,10 @@
 # CLT_Brew
 A project to cluster Charlotte, NC craft breweries using the k-means clustering algorithm. 
 
+<img src="https://github.com/ddearmond/CLT_Brew/blob/main/images/clusters_map.png">
+
+<img src = "https://github.com/ddearmond/CLT_Brew/blob/main/images/cluster_1.png" >
+
 # Prerequisites
 Before you begin, ensure you have met the following requirements:
 * You have a Mac machine, platform: osx-64
